@@ -7,7 +7,6 @@
 //
 
 import UIKit
-import SearchTextField
 
 protocol BackspaceDetectingTextFieldDelegate: UITextFieldDelegate {
     /// Notify whenever the backspace key is pressed
